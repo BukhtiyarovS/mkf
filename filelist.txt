@@ -1,1 +1,0 @@
-"C:/Work/mkf/HMS_00-WindowsNoEditor_Rus/*.*" "..\..\..\*.*"
