@@ -2,4 +2,7 @@
 .idea
 .cursor
 .vscode
+.dist
+.build
 filelist.txt
+buildup.spec
