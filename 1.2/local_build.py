@@ -8,7 +8,10 @@ import subprocess
 import sys
 
 # Конфигурация
+API_URL = "http://95.31.15.222:8091/v4/projects/export"
+API_KEY = "tgpak_gjpti33vnbrdazjyojxwm3bwoaztk3ddnnqwen3fgfztq"
 EXPORT_FOLDER = "translations"  # Папка для сохранения
+TEMP_ZIP = "translations.zip"  # Временный ZIP-файл
 MOUNT_FOLDER = "HMS_00-WindowsNoEditor_Rus"
 FINAL_FOLDER = "HMS_00-WindowsNoEditor_Rus/HMS_00/Content/Etc/Localization"  # Папка для финальных файлов
 UNREALPAK_FOLDER = "UnrealPakTool"  # Папка с UnrealPak.exe
@@ -149,7 +152,7 @@ def process_files():
             print(f"Обработка папки: {folder_path}")
             for file in os.listdir(folder_path):
                 print(f"Найден файл: {file}")
-                if file.endswith("ru.json"):  # Только файлы для ru-RU
+                if file.endswith("ru.json"):  # Только файлы для ru
                     json_path = os.path.join(folder_path, file)
                     csv_path = os.path.join(FINAL_FOLDER, new_name)
 
