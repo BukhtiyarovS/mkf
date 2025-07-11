@@ -63,6 +63,7 @@ Admin_switch_close,Выключить
 Admin_switch_open,Открыть
 Admin_tansfer,Телепорт
 Admin_tile_save_switch,Создать сохранение для Land Mass
+Admin_unlock_all_formation,
 Admin_unlock_argument,Разблокировать словесную дуэль
 Admin_weather,Изменить погоду
 Adult_Need_Day,Взрослым по-прежнему требуется {0}день
@@ -479,6 +480,8 @@ Btn_Name_60024,Просмотр формулы
 Btn_Name_60025,Выпуск
 Btn_Name_60026,Использовать материалы из инвентаря
 Btn_Name_60027,Использовать материалы из хранилища
+Btn_Name_60028,
+Btn_Name_60029,
 Btn_Name_61,Посадить Подснежники
 Btn_Name_62,Посадить Кишью
 Btn_Name_63,Посадить Буддлеи
@@ -716,6 +719,7 @@ Common_Degree,Не соглашаться
 Common_Delete,Удалить
 Common_Delete_All,Удалить всё
 Common_Design,Дизайн
+Common_Desolate,
 Common_Destiny,Карма
 Common_Easy,Легко
 Common_Empty,Пусто
@@ -796,6 +800,7 @@ Common_Move_To,Идти куда-нибудь
 Common_Move_To_Building,Переместить в здание{0}
 Common_Move_To_Other_Home,Иди к себе домой
 Common_Move_To_Self_Home,Пойти к кому-то домой
+Common_My_Side,
 Common_Name,Имя
 Common_NeiGong,Нэйгун
 Common_New,Новый
@@ -882,6 +887,7 @@ Common_Switch_Lock,Блокировка
 Common_Switch_Unlock,Разблокировка
 Common_Take,Получать
 Common_TakeHead_SomeOne,"Ваша окровавленная аура слишком сильна, и новость о том, что вы забрали голову {0}, просочилась"
+Common_Target_Side,
 Common_Teach_Ability_Condition,Эту способность необходимо повысить до уровня {0}
 Common_Teach_Condition,Этот уникальный навык необходимо продвинуть до уровня Даченга
 Common_Teach_SomeOne,Вы преподавали {0}
@@ -1659,6 +1665,7 @@ GameOptionsPanel_49,Чит-код
 GameOptionsPanel_5,Режим отображения
 GameOptionsPanel_50,Включить
 GameOptionsPanel_51,Отключить
+GameOptionsPanel_52,
 GameOptionsPanel_6,Полный экран
 GameOptionsPanel_7,В окне
 GameOptionsPanel_8,Вертикальная синхронизация
@@ -1837,6 +1844,9 @@ Item_Desc_81014,Дарит {0} зарядов Аромата
 Item_Desc_81015,Увеличивает все ATK на {0}%. Контратаки восстанавливают {1}% максимальной силы и энергии.\\nБескрайнее царство правит над четырьмя сотнями госств. Сколько героев сияло в те дни
 Item_Desc_81016,Легкий и освежающий напиток.
 Item_Desc_81017,Дешевый напиток. Ужасный на вкус.
+Item_Desc_81018,
+Item_Desc_81019,
+Item_Desc_81020,
 Item_Desc_83001,Автоматически потребляется при получении смертельного урона для защиты пользователя.
 Item_Desc_83002,Потребляется после применения навыка Луны
 Item_Desc_83003,Потребляется в бою
@@ -2237,6 +2247,8 @@ Item_Desc_98110,"Это знак для того, чтобы бросить вы
 Item_Desc_98111,"Это токен для бросания в срок куриного пирога.Пожалуйста, используйте его на Mount Millibeast."
 Item_Desc_98112,"Это знак для оспаривания Джи Дайана.Пожалуйста, используйте его на Mount Millibeast."
 Item_Desc_98113,"Это токен для бросания в борьбу с Beast Duel King.Пожалуйста, используйте его на Mount Millibeast."
+Item_Desc_98114,
+Item_Desc_98115,
 Item_Desc_99999,тестовый предмет
 Item_Include_Item,Содержимое
 Item_Move_Item,Переместить предметы
@@ -2395,6 +2407,9 @@ Item_Name_81014,Ароматная миля
 Item_Name_81015,Лучшее в мире
 Item_Name_81016,Мутное вино
 Item_Name_81017,Прозрачное вино
+Item_Name_81018,
+Item_Name_81019,
+Item_Name_81020,
 Item_Name_83001,Ледяная защита
 Item_Name_83002,Ледяной чи
 Item_Name_83003,Ледяной разум
@@ -2750,6 +2765,8 @@ Item_Name_98110,Токен - чемпион боевых действий
 Item_Name_98111,Токен - куриный пирог
 Item_Name_98112,Токен - Джи Дайан
 Item_Name_98113,Токен - Beast Duel King
+Item_Name_98114,
+Item_Name_98115,
 Item_Name_99999,「Предмет для теста」 
 Item_Need,Необходимый материал: 
 Item_Rotate_Item,Поворот предмета
@@ -3075,6 +3092,8 @@ Loading_tips_3,Создание игровых персонажей...
 Loading_tips_4,Создание межличностных отношений...
 Loading_tips_5,Загрузка поведения ИИ...
 Loading_tips_6,"Проверка целостности данных, завершение загрузки..."
+Loading_tips_7,
+Loading_tips_8,
 Loading_tips_finish,Мир загружен
 Localization_Time,2025.4.21
 MAIL_DESC_11,{0} доставил товар {1}
@@ -3114,6 +3133,8 @@ MessageTips_2,Сброс настроек Мини-мира очистит вс�
 MessageTips_3,"Возвращаясь к Карме, вы отказываетесь от текущего персонажа и передаете Кунг-фу и родословную. Продолжить?"
 MessageTips_4,<MgRed>При перезапуске маленького мира все содержимое будет удалено! !! Продолжить? </>
 MessageTips_5,Удаление данных приведет к удалению всех данных и возврату игры в исходное состояние! ! ! Продолжить?
+MessageTips_6,
+MessageTips_7,
 MessageTips_Bookshelf,Это может привести к серьезным последствиям!
 MessageTips_BreakDoor,"Если вас поймают за вскрытием замка, это может привести к серьезным последствиям. Пожалуйста, подумайте дважды, прежде чем сделать это…"
 MessageTips_Buy_Building,"Другая сторона готова заплатить {0} монет, чтобы купить ваш {1}, согласны ли вы продать его?"
@@ -3446,8 +3467,6 @@ Secret_Msg_Spread,「Распространить новости」
 SectCreatePanel_1,Создать секту
 SectCreatePanel_2,Название секты
 SectPanel_1,Репутация
-SectPanel_10,Управление учениками
-SectPanel_11,Властные отношения
 SectPanel_2,Секта
 SectPanel_3,Правила секты
 SectPanel_4,Позиция
@@ -3465,6 +3484,7 @@ SectPanel_Info_11,Количество внутренних сил
 SectPanel_Info_12,Владение зданиями
 SectPanel_Info_13,Прогноз прибыли
 SectPanel_Info_14,Роспуск секты
+SectPanel_Info_15,
 SectPanel_Info_2,Владелец
 SectPanel_Info_3,Члены
 SectPanel_Info_4,Участки влияния
@@ -3476,6 +3496,15 @@ SectPanel_Info_9,Покинуть секту
 SectPanel_Info_area,Регион секты
 SectPanel_KickOut_Tips,Хотите выгнать {0} из школы!
 SectPanel_KongFu_intor,"Вы можете указать жанр боевых искусств учеников, чтобы практиковать боевые искусства. Ученики практикуются в порядке уникального обучения и внутренних навыков, чтобы постепенно заменить свою собственную конфигурацию."
+SectPanel_Manage_1,
+SectPanel_Manage_2,
+SectPanel_Manage_3,
+SectPanel_Manage_4,
+SectPanel_Manage_5,
+SectPanel_Manage_6,
+SectPanel_Manage_7,
+SectPanel_Manage_8,
+SectPanel_Manage_9,
 SectPanel_No_Exist_Tips,"Только присоединившись к боевым искусствам или создав их, вы сможете просмотреть соответствующую информацию о боевых искусствах!"
 SectPanel_Not_Member,"Боевые искусства не могут использовать учеников, набирайте учеников!"
 SectPanel_Post_1,{0} Репутация {1}
@@ -3498,6 +3527,13 @@ SectPanel_Task_4,Новые Комиссии
 SectPanel_Task_5,Добавить исполнителя
 SectPanel_Task_Employ_Tips,"Только покорив Его Величество или улучшив позиции в боевых искусствах, вы сможете отдавать приказы!"
 SectPanel_Task_Tips,Нет задачи для выполнения!
+SectPanel_Tax_Money,
+SectPanel_Work_1,
+SectPanel_Work_2,
+SectPanel_Work_3,
+SectPanel_Work_4,
+SectPanel_Work_5,
+SectPanel_Work_6,
 SectPlane_Double_Click,Двойное-нажатие
 SectPlane_MemberItem_Intro_1,"Глава секты формулирует правила вступления, и каждая позиция получает соответствующую сумму денег из фонда секты каждые 3 дня."
 SectPlane_MemberItem_Intro_2,"Благосклонность этого человека к главе секты определяет лояльность, и если лояльность слишком низка, он может покинуть секту."
@@ -3531,15 +3567,26 @@ SectWorkPanel_2,Переименовать Объект
 SectWork_SectFightTips,{0} вызвал вашу секту на дуэль. Принимаете?
 Sect_Applicant_Title,Кандидат
 Sect_Editor_Study,Изменить жанр
+Sect_Fight_Btn_Fighting,
+Sect_Fight_Finish,
+Sect_Fight_Help_Btn_AnQi,
+Sect_Fight_Help_Btn_Barking,
+Sect_Fight_Help_Btn_Boost,
+Sect_Fight_Player_Fight,
 Sect_Fight_Player_Leave,Вы покинули дуэльный участок. Через некоторое время...
 Sect_Fight_Start,Отбываю к месту проведения поединка...
 Sect_Fight_Start_Alone,Бойцы не выбраны. Отправиться на бой в одиночку?
 Sect_Fight_Start_Auto,Автоматически отправлять участников на бой?
+Sect_Fight_State_1,
+Sect_Fight_State_2,
+Sect_Fight_State_3,
+Sect_Fight_Title,
 Sect_Fight_Win_Sect,<{0}> выиграл дуэль
 Sect_Info_Title_1,Общее
 Sect_Info_Title_2,Налоги
 Sect_Info_Title_3,Боевые искусства секты
 Sect_Info_Title_4,Правила секты
+Sect_Info_Title_5,
 Sect_Ruler,Изменить положение вступления
 SelfMsg,Биография
 SelfMsgBtn,Я
@@ -4089,6 +4136,12 @@ Tips_330,Успешная доработка
 Tips_331,Неудачная доработка
 Tips_332,Эта земля уже была удобрена.
 Tips_333,Нельзя спасать характеристики специального снаряжения!
+Tips_334,
+Tips_335,
+Tips_336,
+Tips_337,
+Tips_338,
+Tips_339,
 Tips_34,"Пожалуйста, сначала разместите дверь, а затем переходите к следующему этапу проектирования"
 Tips_35,"Пожалуйста, сначала разместите окна, а затем переходите к следующему этапу проектирования"
 Tips_36,"Пожалуйста, сначала разместите необходимые объекты: <TipKey>{0}</>, прежде чем переходить к следующему этапу проектирования"
@@ -4179,6 +4232,7 @@ World_Equip_Part_2,Брюки: {0}
 World_Equip_Part_3,Оружие: {0}
 World_Equip_Part_4,Скр. оружие: {0}
 WriteBookPanel_Btn_1,Компилировать
+Wulin_Fight_End,
 X_HuPo_A004,Колодец теневого дракона
 X_PingYuan_A004,Бесплодные равнины
 X_RongYan_A001,Пылающая яма
@@ -4754,6 +4808,262 @@ behavior_type_2,Позитивное поведение
 behavior_type_3,Негативное поведение
 behavior_view_snake,Скрытая обратная связь
 behavior_water_push,Плавать
+big_tile_pos_1,
+big_tile_pos_10,
+big_tile_pos_100,
+big_tile_pos_101,
+big_tile_pos_102,
+big_tile_pos_103,
+big_tile_pos_104,
+big_tile_pos_105,
+big_tile_pos_106,
+big_tile_pos_107,
+big_tile_pos_108,
+big_tile_pos_109,
+big_tile_pos_11,
+big_tile_pos_110,
+big_tile_pos_111,
+big_tile_pos_112,
+big_tile_pos_113,
+big_tile_pos_114,
+big_tile_pos_115,
+big_tile_pos_116,
+big_tile_pos_117,
+big_tile_pos_118,
+big_tile_pos_119,
+big_tile_pos_12,
+big_tile_pos_120,
+big_tile_pos_121,
+big_tile_pos_122,
+big_tile_pos_123,
+big_tile_pos_124,
+big_tile_pos_125,
+big_tile_pos_126,
+big_tile_pos_127,
+big_tile_pos_128,
+big_tile_pos_129,
+big_tile_pos_13,
+big_tile_pos_130,
+big_tile_pos_131,
+big_tile_pos_132,
+big_tile_pos_133,
+big_tile_pos_134,
+big_tile_pos_135,
+big_tile_pos_136,
+big_tile_pos_137,
+big_tile_pos_138,
+big_tile_pos_139,
+big_tile_pos_14,
+big_tile_pos_140,
+big_tile_pos_141,
+big_tile_pos_142,
+big_tile_pos_143,
+big_tile_pos_144,
+big_tile_pos_145,
+big_tile_pos_146,
+big_tile_pos_147,
+big_tile_pos_148,
+big_tile_pos_149,
+big_tile_pos_15,
+big_tile_pos_150,
+big_tile_pos_151,
+big_tile_pos_152,
+big_tile_pos_153,
+big_tile_pos_154,
+big_tile_pos_155,
+big_tile_pos_156,
+big_tile_pos_157,
+big_tile_pos_158,
+big_tile_pos_159,
+big_tile_pos_16,
+big_tile_pos_160,
+big_tile_pos_161,
+big_tile_pos_162,
+big_tile_pos_163,
+big_tile_pos_164,
+big_tile_pos_165,
+big_tile_pos_166,
+big_tile_pos_167,
+big_tile_pos_168,
+big_tile_pos_169,
+big_tile_pos_17,
+big_tile_pos_170,
+big_tile_pos_171,
+big_tile_pos_172,
+big_tile_pos_173,
+big_tile_pos_174,
+big_tile_pos_175,
+big_tile_pos_176,
+big_tile_pos_177,
+big_tile_pos_178,
+big_tile_pos_179,
+big_tile_pos_18,
+big_tile_pos_180,
+big_tile_pos_181,
+big_tile_pos_182,
+big_tile_pos_183,
+big_tile_pos_184,
+big_tile_pos_185,
+big_tile_pos_186,
+big_tile_pos_187,
+big_tile_pos_188,
+big_tile_pos_189,
+big_tile_pos_19,
+big_tile_pos_190,
+big_tile_pos_191,
+big_tile_pos_192,
+big_tile_pos_193,
+big_tile_pos_194,
+big_tile_pos_195,
+big_tile_pos_196,
+big_tile_pos_197,
+big_tile_pos_198,
+big_tile_pos_199,
+big_tile_pos_2,
+big_tile_pos_20,
+big_tile_pos_200,
+big_tile_pos_201,
+big_tile_pos_202,
+big_tile_pos_203,
+big_tile_pos_204,
+big_tile_pos_205,
+big_tile_pos_206,
+big_tile_pos_207,
+big_tile_pos_208,
+big_tile_pos_209,
+big_tile_pos_21,
+big_tile_pos_210,
+big_tile_pos_211,
+big_tile_pos_212,
+big_tile_pos_213,
+big_tile_pos_214,
+big_tile_pos_215,
+big_tile_pos_216,
+big_tile_pos_217,
+big_tile_pos_218,
+big_tile_pos_219,
+big_tile_pos_22,
+big_tile_pos_220,
+big_tile_pos_221,
+big_tile_pos_222,
+big_tile_pos_223,
+big_tile_pos_224,
+big_tile_pos_225,
+big_tile_pos_226,
+big_tile_pos_227,
+big_tile_pos_228,
+big_tile_pos_229,
+big_tile_pos_23,
+big_tile_pos_230,
+big_tile_pos_231,
+big_tile_pos_232,
+big_tile_pos_233,
+big_tile_pos_234,
+big_tile_pos_235,
+big_tile_pos_236,
+big_tile_pos_237,
+big_tile_pos_238,
+big_tile_pos_239,
+big_tile_pos_24,
+big_tile_pos_240,
+big_tile_pos_241,
+big_tile_pos_242,
+big_tile_pos_243,
+big_tile_pos_244,
+big_tile_pos_245,
+big_tile_pos_246,
+big_tile_pos_247,
+big_tile_pos_248,
+big_tile_pos_249,
+big_tile_pos_25,
+big_tile_pos_250,
+big_tile_pos_251,
+big_tile_pos_252,
+big_tile_pos_253,
+big_tile_pos_254,
+big_tile_pos_255,
+big_tile_pos_256,
+big_tile_pos_26,
+big_tile_pos_27,
+big_tile_pos_28,
+big_tile_pos_29,
+big_tile_pos_3,
+big_tile_pos_30,
+big_tile_pos_31,
+big_tile_pos_32,
+big_tile_pos_33,
+big_tile_pos_34,
+big_tile_pos_35,
+big_tile_pos_36,
+big_tile_pos_37,
+big_tile_pos_38,
+big_tile_pos_39,
+big_tile_pos_4,
+big_tile_pos_40,
+big_tile_pos_41,
+big_tile_pos_42,
+big_tile_pos_43,
+big_tile_pos_44,
+big_tile_pos_45,
+big_tile_pos_46,
+big_tile_pos_47,
+big_tile_pos_48,
+big_tile_pos_49,
+big_tile_pos_5,
+big_tile_pos_50,
+big_tile_pos_51,
+big_tile_pos_52,
+big_tile_pos_53,
+big_tile_pos_54,
+big_tile_pos_55,
+big_tile_pos_56,
+big_tile_pos_57,
+big_tile_pos_58,
+big_tile_pos_59,
+big_tile_pos_6,
+big_tile_pos_60,
+big_tile_pos_61,
+big_tile_pos_62,
+big_tile_pos_63,
+big_tile_pos_64,
+big_tile_pos_65,
+big_tile_pos_66,
+big_tile_pos_67,
+big_tile_pos_68,
+big_tile_pos_69,
+big_tile_pos_7,
+big_tile_pos_70,
+big_tile_pos_71,
+big_tile_pos_72,
+big_tile_pos_73,
+big_tile_pos_74,
+big_tile_pos_75,
+big_tile_pos_76,
+big_tile_pos_77,
+big_tile_pos_78,
+big_tile_pos_79,
+big_tile_pos_8,
+big_tile_pos_80,
+big_tile_pos_81,
+big_tile_pos_82,
+big_tile_pos_83,
+big_tile_pos_84,
+big_tile_pos_85,
+big_tile_pos_86,
+big_tile_pos_87,
+big_tile_pos_88,
+big_tile_pos_89,
+big_tile_pos_9,
+big_tile_pos_90,
+big_tile_pos_91,
+big_tile_pos_92,
+big_tile_pos_93,
+big_tile_pos_94,
+big_tile_pos_95,
+big_tile_pos_96,
+big_tile_pos_97,
+big_tile_pos_98,
+big_tile_pos_99,
 buff_160001_l_1_desc,Тусклый цвет лица
 buff_160001_l_2_desc,Слепые глаза
 buff_160001_l_3_desc,"Ци, как паутина"
@@ -6370,6 +6680,7 @@ gamepad_operate_build_6,<img id=Gamepad_DPad_Up/> Поместить/отмен�
 gamepad_operate_cancel_decoration,<img id=Gamepad_FaceButton_Left/> Разрядка
 gamepad_operate_change_equip_prop_panel,<img id=Gamepad_DPad_Left/> Выбор снаряжения/атрибутов <img id=Gamepad_DPad_Up/> Переключить выбранный атрибут <img id=Gamepad_LeftShoulder/> Извлечь Статистика\\n<img id=Gamepad_RightShoulder/> Целевое улучшение <img id=Gamepad_FaceButton_Top/> Подтвердить восстановление характеристик <img id=Gamepad_FaceButton_Left/> Добавить слот атрибута
 gamepad_operate_employ,<img id=Gamepad_DPad_Down/> Выберите Его Величество <img id=Gamepad_DPad_Right/> Выберите Статус Его Величества
+gamepad_operate_enhance_panel,
 gamepad_operate_event_task_panel,<img id=Gamepad_LeftTrigger/>/<img id=Gamepad_RightTrigger/> Переключить тип комиссии <img id=Gamepad_FaceButton_Top/> Переключено/Текущая задача <img id=Gamepad_FaceButton_Bottom/> Подтвердить <img id=Gamepad_FaceButton_Right/> Возврат <img id=Gamepad_LeftShoulder/>/<img id=Gamepad_RightShoulder/> Предыдущая страница/Следующая страница
 gamepad_operate_hei_bang,<img id=Gamepad_DPad_Down/> Выберите разыскиваемого преступника
 gamepad_operate_rotator_build,<img id=Gamepad_RightTrigger/> Вращающееся здание
@@ -7213,6 +7524,7 @@ origin_identity_32,「Различие Инь」
 origin_identity_33,「Общее суждение」 
 origin_identity_34,「Яма」 
 origin_identity_35,「Предки」 
+origin_identity_36,
 origin_identity_4,「Управляющий музыкальным домом」 
 origin_identity_5,「Управляющий таверной」 
 origin_identity_6,「Менеджер кузни」 
@@ -7897,6 +8209,10 @@ sect_creator,Создатель
 sect_creator_none,Неизвестно
 sect_cur_chief,Текущий Глава
 sect_expected_income,Предполагаемый доход представляет собой ежемесячную сумму пожертвований всех учеников и налогов на участки за вычетом всех учеников.
+sect_facility_tile_list_title,
+sect_facility_type_list_title,
+sect_facility_work_info_title,
+sect_facility_worker_list_title,
 sect_fight,Дуэль
 sect_fish_resource,Рыболовные ресурсы
 sect_forest_resource,Древовидные ресурсы
@@ -7923,8 +8239,10 @@ sect_occupy_tile,Расширить территорию
 sect_occupy_tile_click_map_tips,Щелкните карту
 sect_occupying_tile,Расширение в процессе
 sect_ore_resources,Рудные ресурсы
+sect_owner_res,
 sect_people_tax,Налог с людей
 sect_people_tax_ruler,"Каждый участок с гражданским населением платит налог медной монетой, и чем больше там мирных жителей, тем больше уплачивается налогов."
+sect_population_resource,
 sect_prefix_1,Культ Незершейда
 sect_prefix_10,Долина Бога Огня
 sect_prefix_11,Долина Бога Огня
@@ -8004,6 +8322,16 @@ sect_punish_3,Задерживать
 sect_punish_4,Лишение внутренней силы
 sect_punish_5,Изгнание из клана
 sect_quit_tips,Ты оставил「{0}」 
+sect_res,
+sect_res_submit_title,
+sect_res_take_title,
+sect_res_type_1,
+sect_res_type_2,
+sect_res_type_3,
+sect_res_type_4,
+sect_res_type_5,
+sect_res_type_6,
+sect_res_type_7,
 sect_resource_intro,"Все участки, на которых будет производиться {0}, будут созданы гражданскими лицами и переданы секте."
 sect_select_message,Оставить「{0}」 и присоединиться к「{1}」 
 sect_skill_num,Количество мастеров секты определяется количеством освоенных мастеров секты.
@@ -8023,6 +8351,36 @@ sect_tile_belong,Текущая принадлежность:
 sect_tile_occupy_need_res,Стоимость размещения:
 sect_tile_res,Выходные ресурсы:
 sect_tips,Советы секты
+sect_work_info_ability,
+sect_work_info_identity,
+sect_work_info_place,
+sect_work_info_sect,
+sect_work_info_tax,
+sect_work_reward_130032,
+sect_work_reward_130033,
+sect_work_reward_130035,
+sect_work_reward_130036,
+sect_work_reward_130039,
+sect_work_reward_130048,
+sect_work_reward_130053,
+sect_work_reward_130054,
+sect_work_reward_130055,
+sect_work_reward_130056,
+sect_work_reward_intro_130032,
+sect_work_reward_intro_130033,
+sect_work_reward_intro_130035,
+sect_work_reward_intro_130036,
+sect_work_reward_intro_130039,
+sect_work_reward_intro_130048,
+sect_work_reward_intro_130053,
+sect_work_reward_intro_130054,
+sect_work_reward_intro_130055,
+sect_work_reward_intro_130056,
+sect_work_reward_item_rate,
+sect_work_reward_item_rate_0,
+sect_work_reward_item_rate_1,
+sect_work_reward_item_rate_2,
+sect_worker_to_work,
 select_all,Выбрать все
 select_all_cancel,Отмена
 select_hater_none,У вас нет врагов в вашем последнем пожизненно
@@ -8290,6 +8648,10 @@ temp_item_9,Быстрая нить
 test1,Это бета-версия. Размер мира ограничен. \\nСпасибо за игру. Вы можете продолжать играть и экспериментировать с различными взаимодействиями.
 test2,В игре много чего происходит. При первом прохождении обязательно уделите время обучению. Оно поможет вам привыкнуть к игровому процессу. Приятного исследования!
 tile_bonus_num,Нефриты Удачи
+tile_buff_fire,
+tile_buff_ice,
+tile_buff_poison,
+tile_buff_wen_he,
 tile_challenge_tile,<RenWu>Испытание: 「{0}」</>
 tile_challenge_tile_2,Задачи [{0}]
 tile_cur_tile,<RenWu>Текущая Локация: [{0}]</>
@@ -8381,6 +8743,13 @@ tile_show_tips_bandits,Появляются бандиты
 tile_show_tips_royal,Появляется в династии
 tile_show_tips_sect,Появляется новая секта
 tile_special,Специальный
+tile_type_desc_1,
+tile_type_desc_2,
+tile_type_desc_3,
+tile_type_desc_4,
+tile_type_desc_5,
+tile_type_desc_6,
+tile_type_desc_7,
 tile_unlock_desc,В мире есть как минимум {0}/{1} сект
 tile_unlock_desc_1,Have {0}/{1} Land Masses in the world
 tile_unlock_need,Условия разблокировки
@@ -8621,6 +8990,7 @@ world_res_reborn_speed_2,Быстрый
 world_to_be_generated,Создается при входе
 wulin_assembly_against,против
 wulin_assembly_final_winer,Чемпион
+wulin_assembly_finished,
 wulin_assembly_giveup,Отказаться от участия
 wulin_assembly_join,Войти сейчас
 wulin_assembly_no_one,"Соревнование по кунг-фу не может начаться, потому что здесь не было никого! !!"
